@@ -4,7 +4,7 @@ habilidades y clases para los personajes. El programa fue creado con Java y Java
 para funcionar mediante localhost.
 
 ## Autores
-- Salcido Peralta Jorge Manuel
+- Salcido Peralta Jorge Manuel 
 - Fajardo Sepulveda Kevin Yovanni
 - Cordova Montiel Axel
 - García Horta Abril Melissa
